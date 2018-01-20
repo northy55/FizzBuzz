@@ -1,1 +1,3 @@
 # FizzBuzz
+
+# Smartninja project
